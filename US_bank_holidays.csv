@@ -1,0 +1,61 @@
+Date,Holiday,Bank Holiday,Top 5 holiday
+1/1/2015,New Year Day,TRUE,1
+1/19/2015,Martin Luther King Jr. Day,TRUE,0
+2/16/2015,Presidents Day (Washingtons Birthday),TRUE,0
+5/25/2015,Memorial Day,TRUE,0
+7/3/2015,Independence Day,TRUE,1
+9/7/2015,Labor Day,TRUE,1
+10/12/2015,Columbus Day,TRUE,0
+11/11/2015,Veterans Day,TRUE,0
+11/26/2015,Thanksgiving Day,TRUE,1
+12/25/2015,Christmas Day,TRUE,1
+1/1/2016,New Year Day,TRUE,1
+1/18/2016,Martin Luther King Jr. Day,TRUE,0
+2/15/2016,Presidents Day (Washingtons Birthday),TRUE,0
+5/30/2016,Memorial Day,TRUE,0
+7/4/2016,Independence Day,TRUE,1
+9/5/2016,Labor Day,TRUE,1
+10/10/2016,Columbus Day,TRUE,0
+11/11/2016,Veterans Day,TRUE,0
+11/24/2016,Thanksgiving Day,TRUE,1
+12/25/2016,Christmas Day,TRUE,1
+12/31/2014,New Year Day,-1,1
+1/18/2015,Martin Luther King Jr. Day,-1,0
+2/15/2015,Presidents Day (Washingtons Birthday),-1,0
+5/24/2015,Memorial Day,-1,0
+7/2/2015,Independence Day,-1,1
+9/6/2015,Labor Day,-1,1
+10/11/2015,Columbus Day,-1,0
+11/10/2015,Veterans Day,-1,0
+11/25/2015,Thanksgiving Day,-1,1
+12/24/2015,Christmas Day,-1,1
+12/31/2015,New Year Day,-1,1
+1/17/2016,Martin Luther King Jr. Day,-1,0
+2/14/2016,Presidents Day (Washingtons Birthday),-1,0
+5/29/2016,Memorial Day,-1,0
+7/3/2016,Independence Day,-1,1
+9/4/2016,Labor Day,-1,1
+10/9/2016,Columbus Day,-1,0
+11/10/2016,Veterans Day,-1,0
+11/23/2016,Thanksgiving Day,-1,1
+12/24/2016,Christmas Day,-1,1
+1/2/2015,New Year Day,1,1
+1/20/2015,Martin Luther King Jr. Day,1,0
+2/17/2015,Presidents Day (Washingtons Birthday),1,0
+5/26/2015,Memorial Day,1,0
+7/4/2015,Independence Day,1,1
+9/8/2015,Labor Day,1,1
+10/13/2015,Columbus Day,1,0
+11/12/2015,Veterans Day,1,0
+11/27/2015,Thanksgiving Day,1,1
+12/26/2015,Christmas Day,1,1
+1/2/2016,New Year Day,1,1
+1/19/2016,Martin Luther King Jr. Day,1,0
+2/16/2016,Presidents Day (Washingtons Birthday),1,0
+5/31/2016,Memorial Day,1,0
+7/5/2016,Independence Day,1,1
+9/6/2016,Labor Day,1,1
+10/11/2016,Columbus Day,1,0
+11/12/2016,Veterans Day,1,0
+11/25/2016,Thanksgiving Day,1,1
+12/26/2016,Christmas Day,1,1
